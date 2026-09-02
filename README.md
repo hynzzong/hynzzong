@@ -114,13 +114,12 @@ GPU 없는 라즈베리파이에서 돌려야 해서, 픽셀 단위 세그멘테
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hynzzong&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&card_width=450">
-  <img src="https://github-readme-stats.vercel.app/api?username=hynzzong&show_icons=true&hide_border=true&hide_title=true&card_width=450" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hynzzong&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hynzzong&theme=github" alt="GitHub Stats" height="200">
 </picture>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hynzzong&layout=compact&hide_border=true&theme=github_dark&langs_count=6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynzzong&layout=compact&hide_border=true&langs_count=6" alt="Top Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hynzzong&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hynzzong&theme=github" alt="Most Commit Language" height="200">
 </picture>
 
 </div>
