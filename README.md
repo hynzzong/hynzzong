@@ -57,7 +57,7 @@
 | **[api-server](https://github.com/WishConnect/api-server)** | Java 17 · Spring Boot 3.3 · PostgreSQL · Redis · AWS | Java 파일 417개 · 엔티티 42개 · 테스트 클래스 78개 |
 | **[frontend](https://github.com/WishConnect/frontend)** | React 19 · TypeScript · Vite · Tailwind · Zustand | Vercel 배포 |
 
-**내가 맡은 파트 (BE)**
+**담당 파트 (BE)**
 - 전국 대학 장학공지를 구조화하는 **LLM 파서**와 대학별 전용 수집기 레지스트리
 - 서로 다른 출처에서 들어온 **중복 장학금 판정 · 병합 승인 큐**
 - 장학금 공고별 **자기소개서 문항 생성**
@@ -73,7 +73,7 @@
 1/10 스케일 모형차 Physicar로 12m × 7m 트랙을 완주하는 랩타임 경쟁입니다.
 `source run.sh` 한 번으로 완전 오프라인·비대화형 자율주행을 수행해야 합니다.
 
-**내가 맡은 파트 — 차선(주행 복도) 인식**
+**담당 파트 — 차선(주행 복도) 인식**
 
 GPU 없는 라즈베리파이에서 돌려야 해서, 픽셀 단위 세그멘테이션 대신
 **고정된 12개 높이에서 x좌표를 회귀**하는 형태로 문제를 축소했습니다.
