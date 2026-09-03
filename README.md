@@ -4,9 +4,6 @@
 
 **A Developer under Development**
 
-서버를 주로 만들고, 필요하면 모델도 직접 학습시켜 붙입니다.<br>
-자격 조건을 판정하는 장학금 플랫폼과, 라즈베리파이 위에서 도는 자율주행 인식 모델을 만들었습니다.
-
 <a href="https://github.com/hynzzong?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 </div>
